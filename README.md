@@ -23,7 +23,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/CurrencyGuard.git
+   git clone https://github.com/Teganmosi/CurrencyGuard.git
    cd CurrencyGuard
 
 ## Set Up a Virtual Environment (optional, for local setup):
